@@ -68,7 +68,7 @@ Pressione o botão para alternar entre configurar posição e tamanho.
 
 Estrutura de Arquivos
 
-pbl.v: Código-fonte principal contendo todos os módulos do projeto.
+controllervga.v: Código-fonte principal contendo todos os módulos do projeto.
 
 Limitações
 
